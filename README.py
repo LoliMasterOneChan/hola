@@ -1,2 +1,2 @@
 # hola
-holaa
+print('holaa')
